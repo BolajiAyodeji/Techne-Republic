@@ -180,7 +180,7 @@ include 'inc/nav.php'
 						</div>
 						<div class="content-box">
 							<h3>Register</h3>
-							<p>Apply to join the community and start learning skills you need to shine. </p>
+							<p>Apply to join the community and start learning skills you need to utilize your talents. </p>
 							<a href="#" class="thm-btn inverse">Read More</a>
 						</div>
 					</div>
@@ -236,7 +236,7 @@ include 'inc/nav.php'
 										<h5 class="event-title"><a href="#">Charity For Education</a></h5>
 										<ul class="event-held list-inline">
 											<li class="mr-10" data-text-color="#555"><i class="fa fa-clock-o"></i> 6.00 pm - 8.30 pm</li>
-											<li data-text-color="#555"> <i class="fa fa-map-marker"></i> 69 Newyork City.</li>
+											<li data-text-color="#555"> <i class="fa fa-map-marker"></i> Nigeria.</li>
 										</ul>
 										<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi expedita perspiciatis
 											soluta quidem, recusandae sapiente.</p>
@@ -259,7 +259,7 @@ include 'inc/nav.php'
 										<h5 class="event-title"><a href="#">Charity For Education</a></h5>
 										<ul class="event-held list-inline">
 											<li class="mr-10" data-text-color="#555"><i class="fa fa-clock-o"></i> 6.00 pm - 8.30 pm</li>
-											<li data-text-color="#555"> <i class="fa fa-map-marker"></i> 69 Newyork City.</li>
+											<li data-text-color="#555"> <i class="fa fa-map-marker"></i> Nigeria.</li>
 										</ul>
 										<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi expedita perspiciatis
 											soluta quidem, recusandae sapiente.</p>
@@ -282,7 +282,7 @@ include 'inc/nav.php'
 										<h5 class="event-title"><a href="#">Charity For Education</a></h5>
 										<ul class="event-held list-inline">
 											<li class="mr-10" data-text-color="#555"><i class="fa fa-clock-o"></i> 6.00 pm - 8.30 pm</li>
-											<li data-text-color="#555"> <i class="fa fa-map-marker"></i> 69 Newyork City.</li>
+											<li data-text-color="#555"> <i class="fa fa-map-marker"></i> Nigeria.</li>
 										</ul>
 										<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi expedita perspiciatis
 											soluta quidem, recusandae sapiente.</p>

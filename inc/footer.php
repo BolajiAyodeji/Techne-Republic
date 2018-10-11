@@ -82,6 +82,6 @@
 
 	<section class="footer-bottom">
 		<div class="container text-center">
-			<p>Copyright © <?php echo date('Y'); ?> <a href="">TechneRepublic</a>&nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp;<i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by <a href="https://bolajiayodeji.github.io">BOLAJI AYODEJI</a></p>
+			<p>Copyright © <?php echo date('Y'); ?> <a href="">TechneRepublic</a>&nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp;<i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by <a href="https://bolajiayodeji.github.io" target="_blank">BOLAJI AYODEJI</a></p>
 		</div>
 	</section>
