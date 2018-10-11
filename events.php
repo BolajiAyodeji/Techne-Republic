@@ -62,7 +62,7 @@ include 'inc/nav.php'
 	                      <h3 class="event-title"><a href="#">Charity For Education</a></h3>
 	                      <ul class="event-held list-inline font-13 mb_20">
 	                        <li class="mr-10" data-text-color="#555"><i class="fa fa-clock-o"></i> 6.00 pm - 8.30 pm</li>
-	                        <li data-text-color="#555"> <i class="fa fa-map-marker"></i> 69 Newyork City.</li>
+	                        <li data-text-color="#555"> <i class="fa fa-map-marker"></i> Nigeria.</li>
 	                      </ul>
 	                      <p class="mb_20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse totam praesentium saepe repudiandae, eaque ipsum id, inventore vel magnam quod porro ipsam quo amet. Fugit voluptate, deleniti! Eum possimus placeat quisquam accusantium illo dolore suscipit commodi optio quidem. Praesentium maiores tenetur, enim distinctio ex esse repellat sunt itaque, neque minus aut, animi. Nemo, autem ab fuga tempora eaque distinctio commodi, provident facilis possimus fugit, repellat illum quae dolor et amet quasi architecto. Quasi voluptates, aperiam provident odit quibusdam officiis temporibus.</p>
 	                      <a class="text-thm" href="#"> Read More </a>
@@ -90,7 +90,7 @@ include 'inc/nav.php'
 	                      <h3 class="event-title"><a href="#">Charity For Education</a></h3>
 	                      <ul class="event-held list-inline font-13 mb_20">
 	                        <li class="mr-10" data-text-color="#555"><i class="fa fa-clock-o"></i> 6.00 pm - 8.30 pm</li>
-	                        <li data-text-color="#555"> <i class="fa fa-map-marker"></i> 69 Newyork City.</li>
+	                        <li data-text-color="#555"> <i class="fa fa-map-marker"></i> Nigeria.</li>
 	                      </ul>
 	                      <p class="mb_20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse totam praesentium saepe repudiandae, eaque ipsum id, inventore vel magnam quod porro ipsam quo amet. Fugit voluptate, deleniti! Eum possimus placeat quisquam accusantium illo dolore suscipit commodi optio quidem. Praesentium maiores tenetur, enim distinctio ex esse repellat sunt itaque, neque minus aut, animi. Nemo, autem ab fuga tempora eaque distinctio commodi, provident facilis possimus fugit, repellat illum quae dolor et amet quasi architecto. Quasi voluptates, aperiam provident odit quibusdam officiis temporibus.</p>
 	                      <a class="text-thm" href="#"> Read More </a>
@@ -118,7 +118,7 @@ include 'inc/nav.php'
 	                      <h3 class="event-title"><a href="#">Charity For Education</a></h3>
 	                      <ul class="event-held list-inline font-13 mb_20">
 	                        <li class="mr-10" data-text-color="#555"><i class="fa fa-clock-o"></i> 6.00 pm - 8.30 pm</li>
-	                        <li data-text-color="#555"> <i class="fa fa-map-marker"></i> 69 Newyork City.</li>
+	                        <li data-text-color="#555"> <i class="fa fa-map-marker"></i> Nigeria.</li>
 	                      </ul>
 	                      <p class="mb_20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse totam praesentium saepe repudiandae, eaque ipsum id, inventore vel magnam quod porro ipsam quo amet. Fugit voluptate, deleniti! Eum possimus placeat quisquam accusantium illo dolore suscipit commodi optio quidem. Praesentium maiores tenetur, enim distinctio ex esse repellat sunt itaque, neque minus aut, animi. Nemo, autem ab fuga tempora eaque distinctio commodi, provident facilis possimus fugit, repellat illum quae dolor et amet quasi architecto. Quasi voluptates, aperiam provident odit quibusdam officiis temporibus.</p>
 	                      <a class="text-thm" href="#"> Read More </a>

@@ -89,8 +89,8 @@ include 'inc/nav.php'
 <section class="home-serivce sec-padding">
 		<div class="container">
 			<div class="sec-title text-center">
-				<h2>Our Mission</h2>
-				<p>Lorem ipsum is a dummy text it will use for subtitle here</p>
+				<h2>TechneRepublic</h2>
+				<p>Digital Civilization for the African Youth.</p>
 				<span class="decor"><span class="inner"></span></span>
 			</div>
 			<div class="row">
@@ -199,7 +199,7 @@ include 'inc/nav.php'
 							<span class="inner"></span>
 						</span>
 					</div>
-					<h2>Became a part of the world lorem ipsum</h2>
+					<h2>Join us, lets #ReDesign Africa Together.</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam quaerat atque, dolore. Amido ipsum dolor sit
 						amet, consectetur adipisicing elit. Numquam quaerat atque, dolore.Lorem ipsum dolor sit amet, consectetur.</p>
 					<a href="#" class="thm-btn">Donate Now</a>
@@ -295,7 +295,7 @@ include 'inc/nav.php'
 				<div class="col-md-6 hidden-md hidden-sm">
 					<div class="img-masonary">
 						<div class="img-w1">
-							<img src="img/faq/1.jpg" height="450" width="280" alt="">
+							<img src="img/faq/1.png" height="450" width="280" alt="">
 						</div>
 						<div class="img-w1 img-h1">
 							<img src="img/faq/2.jpg" height="450" width="280" alt="">
