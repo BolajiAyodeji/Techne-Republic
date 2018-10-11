@@ -183,26 +183,11 @@ include 'inc/nav.php'
 	              </div>
 	            </div>
 	          </div>
-
-	          <div class="col-sm-12">
-	          	<!--Pagination-->
-	            <div class="pager-outer clearfix text-center mt_30 mb_0">
-	                <ul class="pagination mb_0">
-	                    <li><a href="#">Prev</a></li>
-	                    <li><a href="#">1</a></li>
-	                    <li class="active"><a href="#">2</a></li>
-	                    <li><a href="#">3</a></li>
-	                    <li><a href="#">4</a></li>
-	                    <li><a href="#">5</a></li>
-	                    <li><a href="#">Next</a></li>
-	                </ul>
-	            </div>
-	          </div>
 	        </div>
 		</div>
 </div>
 	</section>
-
+<hr />
 
 	<section class="overlay-white sec-padding parallax-section">
 		<div class="container">
