@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Charity Home || Charity and Donation HTML5 Template</title>
+	<title>Gallery || TechneRepublic</title>
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -134,8 +134,8 @@ include 'inc/nav.php'
                 <!--Image Box-->
                 <div class="image-box mix mix_all child charity">
                     <div class="inner-box">
-                        <figure class="image"><a href="img/gallery/s10.jpg" class="lightbox-image"><img src="img/gallery/s10.jpg" alt=""></a></figure>
-                        <a href="img/gallery/s10.jpg" class="lightbox-image btn-zoom" title="Image Title Here"><span class="icon fa fa-dot-circle-o"></span></a>
+                        <figure class="image"><a href="img/gallery/s10.jpg" class="lightbox-image"><img src="img/gallery/s10.png" alt=""></a></figure>
+                        <a href="img/gallery/s10.png" class="lightbox-image btn-zoom" title="Image Title Here"><span class="icon fa fa-dot-circle-o"></span></a>
                     </div>
                 </div>
                 
@@ -150,8 +150,8 @@ include 'inc/nav.php'
                 <!--Image Box-->
                 <div class="image-box mix mix_all charity sponsorship volunteering">
                     <div class="inner-box">
-                        <figure class="image"><a href="img/gallery/s12.jpg" class="lightbox-image"><img src="img/gallery/s12.jpg" alt=""></a></figure>
-                        <a href="img/gallery/s12.jpg" class="lightbox-image btn-zoom" title="Image Title Here"><span class="icon fa fa-dot-circle-o"></span></a>
+                        <figure class="image"><a href="img/gallery/s12.jpg" class="lightbox-image"><img src="img/gallery/s12.png" alt=""></a></figure>
+                        <a href="img/gallery/s12.png" class="lightbox-image btn-zoom" title="Image Title Here"><span class="icon fa fa-dot-circle-o"></span></a>
                     </div>
                 </div>
                 
