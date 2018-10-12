@@ -152,7 +152,7 @@ include 'inc/nav.php'
 						</div>
 						<div class="content-box">
 							<h3>Donation</h3>
-							<p>We are a Non-governmental Organization, donate to hekp us reach out more. </p>
+							<p>We are a Non-governmental Organization, donate to help us reach out more. </p>
 							<a href="#" class="thm-btn inverse">Donate Now</a>
 						</div>
 					</div>

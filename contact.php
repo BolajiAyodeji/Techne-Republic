@@ -44,7 +44,7 @@ include 'inc/nav.php'
 			<div class="sec-title text-center">
 				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been <br> the industry's standard dummy text ever since the 1500s, when an unknownto </p>
 			</div>
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63245.923831144835!2d6.698869944743184!3d7.803559310353196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104f5e0fea6fe187%3A0x22ba4f350441336d!2sLokoja!5e0!3m2!1sen!2sng!4v1539281768010" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe>
+			<iframe src="https://www.google.com/maps/d/embed?mid=1pt-OY4eADZ0f5jdRqbxey455uWM&hl=en" width="100%" height="400px"></iframe>
 			<div class="row">
 				<div class="col-md-8">
 					<h2>Contact Form</h2>
@@ -72,7 +72,7 @@ include 'inc/nav.php'
 							</div>
 							<div class="content-box">
 								<h4>Address</h4>
-								<p>Lokoja, Kogi State, Nigeria</p>
+								<p>Somewhere in Wakanda, Africa.</p>
 							</div>
 						</li>
 						<li>
