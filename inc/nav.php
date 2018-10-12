@@ -198,6 +198,18 @@
 						<li>
 							<a href="causes.php">Causes</a>
 						</li>
+						<li class="dropdown"><a href="#">Programs</a>
+							<ul class="submenu">
+								<li><a href="#">Virtual Skill Trainings</a></li>
+								<li><a href="#">Digital Civilization</a></li>
+								<li><a href="#">Training Workshops</a></li>
+								<li><a href="#">Mentorship</a></li>
+								<li><a href="#">Debate competitions</a></li>
+								<li><a href="#">Education support</a></li>
+								<li><a href="#">Help a child get back to school</a></li>
+								<li><a href="#">Support the orphans</a></li>
+							</ul>
+						</li>
 						<li>
 							<a href="events.php">Events</a>
 						</li>
