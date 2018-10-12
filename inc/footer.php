@@ -7,7 +7,7 @@
 						</a>
 						<p>Lorem ipsum dolor sit amet, eu me evert laboramus, iudico </p>
 						<ul class="contact">
-							<li><i class="fa fa-map-marker"></i> <span>Lokoja, Kogi State, Nigeria.</span></li>
+							<li><i class="fa fa-map-marker"></i> <span>Somewhere in Wakanda, Africa.</span></li>
 							<li><i class="fa fa-phone"></i> <span>(+234) 8109445504</span></li>
 							<li><i class="fa fa-envelope-o"></i> <span>info@technerepublic.org</span></li>
 						</ul>
