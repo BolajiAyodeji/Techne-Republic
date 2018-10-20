@@ -241,7 +241,7 @@ include 'inc/nav.php'
 				<div class="col-md-6 hidden-md">
 					<div class="img-masonary">
 						<div class="img-w1">
-							<img src="img/faq/1.jpg" height="450" width="280" alt="">
+							<img src="img/faq/1.png" height="450" width="280" alt="">
 						</div>
 						<div class="img-w1 img-h1">
 							<img src="img/faq/2.jpg" height="450" width="280" alt="">

@@ -50,15 +50,15 @@ include 'inc/nav.php'
 					<h2>Contact Form</h2>
 					<form action="inc/sendemail.php" class="contact-form row" id="contact-page-contact-form">
 						<div class="col-md-6">
-							<input type="text" name="name" placeholder="Name">
-							<input type="text" name="email" placeholder="Email">
-							<input type="text" name="phone" placeholder="Phone">
+							<input type="text" name="name" placeholder="Name" required>
+							<input type="text" name="email" placeholder="Email" required>
+							<input type="text" name="phone" placeholder="Phone" required>
 							
 						</div>
 						<div class="col-md-6">
 							<textarea name="message" placeholder="Message" cols="30" rows="10"></textarea>
 						</div>
-						<div class="col-md-12"><button class="thm-btn" type="submit">Send</button></div>
+						<div class="col-md-12"><button class="thm-btn" type="submit">Send Message</button></div>
 					</form>
 				</div>
 				<div class="col-md-4">

@@ -91,6 +91,7 @@ include 'inc/nav.php'
 			<div class="sec-title text-center">
 				<h2>TechneRepublic</h2>
 				<p>Digital Civilization for the African Youth.</p>
+				
 				<span class="decor"><span class="inner"></span></span>
 			</div>
 			<div class="row">
@@ -161,7 +162,7 @@ include 'inc/nav.php'
 					<div class="single-call-to-action">
 						<div class="icon-box">
 							<div class="inner-box">
-								<i class="flaticon-social"></i>
+								<i class="flaticon-medical"></i>
 							</div>
 						</div>
 						<div class="content-box">
@@ -175,7 +176,7 @@ include 'inc/nav.php'
 					<div class="single-call-to-action">
 						<div class="icon-box">
 							<div class="inner-box">
-								<i class="flaticon-medical"></i>
+								<i class="flaticon-social"></i>
 							</div>
 						</div>
 						<div class="content-box">
@@ -402,6 +403,7 @@ include 'inc/nav.php'
 			</div>
 		</div>
 	</section>
+	
 
 	<footer class="footer sec-padding">
 
