@@ -441,7 +441,7 @@ include 'inc/footer.php'
 	<!-- easyPieChart -->
 	<script src="js/easypiechart.min.js"></script
 	<!-- gmap helper -->
-	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<script src="https://maps.google.com/maps/api/js?sensor=true"></script>
 	<!-- gmap main script -->
 	<script src="js/gmap.js"></script>
 
