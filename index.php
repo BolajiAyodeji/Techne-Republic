@@ -439,12 +439,7 @@ include 'inc/footer.php'
 	<!-- count to -->
 	<script src="js/jquery.countTo.js"></script>
 	<!-- easyPieChart -->
-	<script src="js/easypiechart.min.js"></script
-	<!-- gmap helper -->
-	<script src="https://maps.google.com/maps/api/js?sensor=true"></script>
-	<!-- gmap main script -->
-	<script src="js/gmap.js"></script>
-
+	<script src="js/easypiechart.min.js"></script>
 	<!-- isotope script -->
 	<script src="js/isotope.pkgd.min.js"></script>
 	<!-- jQuery ui js -->

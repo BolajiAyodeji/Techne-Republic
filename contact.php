@@ -134,11 +134,6 @@ include 'inc/footer.php'
 	<script src="js/jquery.appear.js"></script>
 	<!-- count to -->
 	<script src="js/jquery.countTo.js"></script>
-	<!-- gmap helper -->
-	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
-	<!-- gmap main script -->
-	<script src="js/gmap.js"></script>
-
 	<!-- isotope script -->
 	<script src="js/isotope.pkgd.min.js"></script>
 	<!-- jQuery ui js -->
